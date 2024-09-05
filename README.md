@@ -1,6 +1,6 @@
-# PrivateClassPro Desktop App
+# AcademyGuide Desktop App
 
-PrivateClassPro Desktop App is a Java-based application built to efficiently manage private classes. Using Java Swing for the graphical user interface, JDBC for database connectivity, and SQL for data management, this application simplifies student registration, admission confirmation, syllabus tracking, and provides effective search functionalities for private class management.
+AcademyGuide Desktop App is a Java-based application built to efficiently manage private classes. Using Java Swing for the graphical user interface, JDBC for database connectivity, and SQL for data management, this application simplifies student registration, admission confirmation, syllabus tracking, and provides effective search functionalities for private class management.
 
 ## Features
 
@@ -16,11 +16,11 @@ PrivateClassPro Desktop App is a Java-based application built to efficiently man
 
 ## Getting Started
 
-1. Download the latest release of the PrivateClassPro Desktop App from the (https://github.com/yourusername/PrivateClassPro/releases) page.
+1. Download the latest release of the AcademyGuide Desktop App from the (https://github.com/yourusername/AcademyGuide/releases) page.
 2. Make sure you have Java Development Kit (JDK) installed.
 3. Configure the database settings in the application's configuration file.
 4. download the jcalander jar fro meven repository 
-5. Run the application: `java -jar PrivateClassProDesktopApp.jar`
+5. Run the application: `java -jar AcademyGuideDesktopApp.jar`
 
 ## Usage
 
@@ -30,7 +30,7 @@ PrivateClassPro Desktop App is a Java-based application built to efficiently man
 - Use the advanced search feature to easily retrieve specific student or syllabus information.
 
 
-The PrivateClassPro Desktop App streamlines the management of private classes through a Java-based application with a Java Swing GUI, JDBC database connectivity, and SQL data management. It simplifies student registration, admission tracking, syllabus management, and effective searching, all within a convenient desktop environment.
+The AcademyGuide Desktop App streamlines the management of private classes through a Java-based application with a Java Swing GUI, JDBC database connectivity, and SQL data management. It simplifies student registration, admission tracking, syllabus management, and effective searching, all within a convenient desktop environment.
 
 
 ## SNIPTS OF THE DESKTOP FRAMES 
